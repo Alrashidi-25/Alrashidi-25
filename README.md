@@ -9,7 +9,17 @@ Computer Information Systems senior at **King Faisal University**, working towar
 - 🛡️ **Security** — incident response, ethical hacking and CTF fundamentals
 - 🎓 Looking for a **cooperative training** placement in systems or business analysis
 
-#### Projects
+#### Featured — Jisr · جسر, a co-op placement system end to end
+
+One problem taken from analysis, to a tested database, to a KPI dashboard (synthetic data):
+
+| Part | What it is | |
+|---|---|---|
+| [**Business analysis**](https://github.com/Alrashidi-25/jisr-business-analysis) | Process maps, pain points, 28 prioritized requirements, use cases, KPIs, options analysis and a full BRD | [Case study](https://alrashidi-25.github.io/jisr-business-analysis/) |
+| [**Database & SQL**](https://github.com/Alrashidi-25/jisr-database) | 18-table SQLite schema with a trigger-enforced workflow, 16 SQL analyses and constraint tests | |
+| [**Power BI**](https://github.com/Alrashidi-25/jisr-powerbi) | Star schema, 27 DAX measures, theme and page designs — report build in progress | |
+
+#### More projects
 
 | Project | What it is | |
 |---|---|---|
